@@ -1,0 +1,7 @@
+C:\Users\groov\source\repos\CodeWarsMovingZerosToTheEnd\CodeWarsMovingZerosToTheEnd\bin\Debug\CodeWarsMovingZerosToTheEnd.exe.config
+C:\Users\groov\source\repos\CodeWarsMovingZerosToTheEnd\CodeWarsMovingZerosToTheEnd\bin\Debug\CodeWarsMovingZerosToTheEnd.exe
+C:\Users\groov\source\repos\CodeWarsMovingZerosToTheEnd\CodeWarsMovingZerosToTheEnd\bin\Debug\CodeWarsMovingZerosToTheEnd.pdb
+C:\Users\groov\source\repos\CodeWarsMovingZerosToTheEnd\CodeWarsMovingZerosToTheEnd\obj\Debug\CodeWarsMovingZerosToTheEnd.csprojAssemblyReference.cache
+C:\Users\groov\source\repos\CodeWarsMovingZerosToTheEnd\CodeWarsMovingZerosToTheEnd\obj\Debug\CodeWarsMovingZerosToTheEnd.csproj.CoreCompileInputs.cache
+C:\Users\groov\source\repos\CodeWarsMovingZerosToTheEnd\CodeWarsMovingZerosToTheEnd\obj\Debug\CodeWarsMovingZerosToTheEnd.exe
+C:\Users\groov\source\repos\CodeWarsMovingZerosToTheEnd\CodeWarsMovingZerosToTheEnd\obj\Debug\CodeWarsMovingZerosToTheEnd.pdb
